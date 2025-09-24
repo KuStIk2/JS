@@ -14,15 +14,15 @@ const moni = Number(prompt('Возведи число'))
 console.log(salary(moni));
 //Задание 1.3
 
-// function chetovod(a) {
-//   if (a>0) {
-//     alert(число ${a} +++)
-//  } else {
-//      alert(число ${a} ---)
-//    }
-//  }
+ function chetovod(a) {
+  if (a>0) {
+     alert(`число ${a} +++`)
+  } else {
+      alert(`число ${a} ---`)
+    }
+  }
 
-//  chetovod(5)
+  chetovod(9)
 
 
  // Задание 2.1 AND 2.2
@@ -106,3 +106,4 @@ function func(num = 5) {
      }  
  }  
  alert(gret("Глебушка"))
+
