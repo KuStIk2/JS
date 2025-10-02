@@ -97,7 +97,7 @@
 //Задание 4.4
 // let result = ""
 // for (let i = 1; i < 10; i++) {
-//    result +=`${i}`
+//    result += i + "-"
 // }
 // console.log(result + "-");
 
@@ -136,3 +136,4 @@
 //  arr.splice(1, 2)
 
 // console.log(arr);
+
