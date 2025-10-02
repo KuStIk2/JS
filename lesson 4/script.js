@@ -104,10 +104,10 @@
 // ЗАдание 4.5
 // const arr = [2, 5, 9, 0, 3, 1, 4]
 // for (let i = 0; i < arr.length; i++) {
-//     console.log(arr[i]);
-//     if (arr === 0) {
+//     if (arr[i] === 0) {
 //         break
 //     }
+//  console.log(arr[i]);
 // }
 
 //Задание 5
@@ -136,5 +136,6 @@
 //  arr.splice(1, 2)
 
 // console.log(arr);
+
 
 
