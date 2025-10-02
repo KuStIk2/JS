@@ -99,7 +99,7 @@
 // for (let i = 1; i < 10; i++) {
 //    result += i + "-"
 // }
-// console.log(result + "-");
+// console.log("-" + result );
 
 // ЗАдание 4.5
 // const arr = [2, 5, 9, 0, 3, 1, 4]
@@ -136,4 +136,5 @@
 //  arr.splice(1, 2)
 
 // console.log(arr);
+
 
